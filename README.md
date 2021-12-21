@@ -19,7 +19,11 @@
   - tree (low poly)
 
 ### 결과물
-- 해당 프로그램을 통해 얻을 수 있는 결과물 입니다.
+- [Project 디렉토리](https://github.com/oeccsy/OSS_Project/tree/main/Project)에서 프로그램을 확인하실 수 있습니다.
+  - 프로그램을 확인하기 전에 아래 주의사항도 읽어주세요.
+  - 프로그램이 실행되면 생성되는 fbx파일은 [Output 디렉토리](https://github.com/oeccsy/OSS_Project/tree/main/Project/Output)의 경로에 생성됩니다.
+
+- 아래는 해당 프로그램을 통해 얻을 수 있는 fbx 파일 입니다.
 
 - Project의 [Sample 디렉토리](https://github.com/oeccsy/OSS_Project/tree/main/Project/Sample)에서도 확인할 수 있습니다.
 
@@ -40,6 +44,9 @@
 
 - bpy module 설치 이후에도 실행할 수 없는 경우 [여기](https://github.com/oeccsy/OSS_Project/blob/main/ETC/Summary/bpy%EB%AA%A8%EB%93%88%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.MD)를 확인해주세요
   - `No module named 'bpy_types'` 의 오류가 발생할 수 있음
+
+  - 해당 repository를 clone 하지 않고 실행하는 경우,
+    - 프로그램 실행 시 파일 경로에 Output 디렉토리가 존재해야 합니다.
 
 ### 라이센스
 - Blender는 GNU GPL v2 라이센스의 오픈소스입니다.

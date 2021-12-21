@@ -50,6 +50,7 @@
 
 ### 라이센스
 - Blender는 GNU GPL v2 라이센스의 오픈소스입니다.
+  - https://www.blender.org/about/license/
 
 - 이 프로젝트는 이와 동일한 GNU GPL v2 라이센스를 적용합니다.
 

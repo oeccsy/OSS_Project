@@ -1,6 +1,6 @@
 # bpy module 오류 해결하기
 
-![Image](../img/bpy_doule_error.png)
+![Image](../img/bpy_module_error.png)
 
 ### 참고링크
 

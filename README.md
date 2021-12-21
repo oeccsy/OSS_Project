@@ -22,15 +22,17 @@
 - 해당 프로그램을 통해 얻을 수 있는 결과물 입니다.
 - 차례로 rock(low poly), rock, tree(low poly) 순 입니다.
 
-![Image](./ETC/Summary/img/rock_lowpoly.png)
-![Image](./ETC/Summary/img/rock.png)
-![Image](./ETC/Summary/img/tree.png)
+![Image](./ETC/img/rock_lowpoly.png)
+![Image](./ETC/img/rock.png)
+![Image](./ETC/img/tree.png)
 
 ## 주의 사항
 - python 3.7 에서 동작해야 합니다. (이외에는 동작하지 않음)
 
 - bpy module이 설치 되어야 합니다.
   - 또는 blender - scripting 에서 직접 실행시킬 수 있습니다.
+
+- bpy mudle 설치 이후에도 실행할 수 없는 경우 여기를 확인해주세요
 
 ### 라이센스
 - Blender는 GNU GPL v2 라이센스의 오픈소스입니다.

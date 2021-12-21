@@ -20,11 +20,15 @@
 
 ### 결과물
 - 해당 프로그램을 통해 얻을 수 있는 결과물 입니다.
+
 - Project의 [Sample 디렉토리](https://github.com/oeccsy/OSS_Project/tree/main/Project/Sample)에서도 확인할 수 있습니다.
+
 - 차례로 rock(low poly), rock, tree(low poly) 순 입니다.
 
 ![Image](./ETC/img/rock_lowpoly.png)
+
 ![Image](./ETC/img/rock.png)
+
 ![Image](./ETC/img/tree.png)
 
 ## 주의 사항
@@ -43,5 +47,5 @@
 - 이 프로젝트는 이와 동일한 GNU GPL v2 라이센스를 적용합니다.
 
 ### 참고자료
-- ETC의 Summary디렉토리에서 프로그램을 개발하기 위해 정리한 내용과 참고하였던 자료를 확인하실 수 있습니다.
+- ETC의 [Summary디렉토리](https://github.com/oeccsy/OSS_Project/tree/main/ETC/Summary)에서 프로그램을 개발하기 위해 정리한 내용과 참고하였던 자료를 확인하실 수 있습니다.
 

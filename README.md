@@ -32,8 +32,10 @@
 
 - bpy module이 설치 되어야 합니다.
   - 또는 Blender 프로그램 내부의 scripting 탭에서 직접 실행시킬 수 있습니다.
+  - bpy module은 `pip install bpy` 명령어를 통해 설치할 수 있습니다.
 
 - bpy module 설치 이후에도 실행할 수 없는 경우 [여기](https://github.com/oeccsy/OSS_Project/blob/main/ETC/Summary/bpy%EB%AA%A8%EB%93%88%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.MD)를 확인해주세요
+  - `No module named 'bpy_types'` 의 오류가 발생할 수 있음
 
 ### 라이센스
 - Blender는 GNU GPL v2 라이센스의 오픈소스입니다.

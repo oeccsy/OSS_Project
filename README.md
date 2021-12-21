@@ -20,6 +20,7 @@
 
 ### 결과물
 - 해당 프로그램을 통해 얻을 수 있는 결과물 입니다.
+- Project의 [Sample 디렉토리](https://github.com/oeccsy/OSS_Project/tree/main/Project/Sample)에서도 확인할 수 있습니다.
 - 차례로 rock(low poly), rock, tree(low poly) 순 입니다.
 
 ![Image](./ETC/img/rock_lowpoly.png)
@@ -27,12 +28,12 @@
 ![Image](./ETC/img/tree.png)
 
 ## 주의 사항
-- python 3.7 에서 동작해야 합니다. (이외에는 동작하지 않음)
+- python 3.7 에서 동작해야 합니다. (이외에는 bpy가 동작하지 않음)
 
 - bpy module이 설치 되어야 합니다.
-  - 또는 blender - scripting 에서 직접 실행시킬 수 있습니다.
+  - 또는 Blender 프로그램 내부의 scripting 탭에서 직접 실행시킬 수 있습니다.
 
-- bpy mudle 설치 이후에도 실행할 수 없는 경우 [여기](https://github.com/oeccsy/OSS_Project/blob/main/ETC/Summary/bpy%EB%AA%A8%EB%93%88%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.MD)를 확인해주세요
+- bpy module 설치 이후에도 실행할 수 없는 경우 [여기](https://github.com/oeccsy/OSS_Project/blob/main/ETC/Summary/bpy%EB%AA%A8%EB%93%88%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.MD)를 확인해주세요
 
 ### 라이센스
 - Blender는 GNU GPL v2 라이센스의 오픈소스입니다.
